@@ -58,20 +58,6 @@ Individual steps: `python main.py simulate | train | evaluate | predict <img> | 
 | Data | real |
 <!-- RESULTS_END -->
 
-## Screenshots
-| Samples | Preprocessing |
-|---|---|
-| ![samples](images/00_sample_images.png) | ![pre](images/01_preprocessing_preview.png) |
-
-| Training curves | Confusion matrix |
-|---|---|
-| ![curves](images/02_accuracy_loss_graph.png) | ![cm](images/03_confusion_matrix.png) |
-
-| Predicted vs actual |
-|---|
-| ![pred](images/04_prediction_results.png) |
-
-Add your own after running the app: `images/06_api_home.png`, `images/07_api_prediction.png`.
 
 ## Project Structure
 ```
